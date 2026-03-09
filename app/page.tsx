@@ -19,9 +19,6 @@ export default function Home() {
         <Services />
       </section>
       
-      <section id="about">
-        <Testimonials />
-      </section>
       <section id="contact">
         <Contact />
       </section>
